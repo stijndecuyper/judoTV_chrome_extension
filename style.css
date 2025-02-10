@@ -1,0 +1,9 @@
+.button-container {
+    display: flex;
+    justify-content: center; /* Centers buttons horizontally */
+    align-items: center; /* Aligns them vertically */
+    gap: 10px; /* Adds space between buttons */
+    margin-top: 20px; /* Adds spacing from the heading */
+    flex-wrap: nowrap; /* Prevents buttons from stacking on smaller screens */
+  }
+  
