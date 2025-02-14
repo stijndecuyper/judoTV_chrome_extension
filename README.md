@@ -39,7 +39,8 @@ This extension is compatible with Google Chrome and other Chromium-based browser
 7. **Confirm Installation:**
    - The extension should now appear in the list of installed extensions.
    
-   ![Extension List](https://github.com/user-attachments/assets/935ac2b2-f46f-453a-a27a-78193d181534)
+   ![image](https://github.com/user-attachments/assets/1b061d3a-2e39-4f48-8135-3a2221503841)
+
 
 8. **Enjoy the Features:**
    - Refresh the JUDOTV live stream and start using the enhanced controls.
